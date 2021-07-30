@@ -19,4 +19,5 @@
   <depend>geometry_msgs</depend>
   <depend>message_generation</depend>
   <depend>message_runtime</depend>
+  <depend>livox_ros_driver</depend>
 </package>
